@@ -1,0 +1,7 @@
+id,date_account_created,timestamp_first_active,date_first_booking,gender,age,signup_method,signup_flow,language,affiliate_channel,affiliate_provider,first_affiliate_tracked,signup_app,first_device_type,first_browser
+5uwns89zht,01-07-2014,2.01407E+13,,FEMALE,35,facebook,0,en,direct,direct,untracked,Moweb,iPhone,Mobile Safari
+jtl0dijy2j,01-07-2014,2.01407E+13,,-unknown-,,basic,0,en,direct,direct,untracked,Moweb,iPhone,Mobile Safari
+xx0ulgorjt,01-07-2014,2.01407E+13,,-unknown-,,basic,0,en,direct,direct,linked,Web,Windows Desktop,Chrome
+6c6puo6ix0,01-07-2014,2.01407E+13,,-unknown-,,basic,0,en,direct,direct,linked,Web,Windows Desktop,IE
+czqhjk3yfe,01-07-2014,2.01407E+13,,-unknown-,,basic,0,en,direct,direct,untracked,Web,Mac Desktop,Safari
+szx28ujmhf,01-07-2014,2.01407E+13,,FEMALE,28,basic,0,en,sem-brand,google,omg,Web,Windows Desktop,Chrome
